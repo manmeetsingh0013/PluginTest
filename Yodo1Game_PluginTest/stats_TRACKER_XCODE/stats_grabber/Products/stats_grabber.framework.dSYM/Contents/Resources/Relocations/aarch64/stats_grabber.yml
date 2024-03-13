@@ -1,0 +1,46 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/akshaybisht/Documents/UnityProjects/ios/Build/Stats_Ios/stats_grabber/Products/stats_grabber.framework/stats_grabber'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x54020, size: 0x8, addend: 0x0, symName: _stats_grabberVersionString, symObjAddr: 0x0, symBinAddr: 0x5750, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x54055, size: 0x8, addend: 0x0, symName: _stats_grabberVersionNumber, symObjAddr: 0x38, symBinAddr: 0x5788, symSize: 0x0 }
+  - { offsetInCU: 0x2B, offset: 0x54096, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerCACSgycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x30 }
+  - { offsetInCU: 0x4F, offset: 0x540BA, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerCACSgycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x30 }
+  - { offsetInCU: 0x6D, offset: 0x540D8, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerCACSgycfc', symObjAddr: 0x30, symBinAddr: 0x4030, symSize: 0x1AC }
+  - { offsetInCU: 0x10B, offset: 0x54176, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerC03getC0SdyF', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x178 }
+  - { offsetInCU: 0x1C0, offset: 0x5422B, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerCfd', symObjAddr: 0x374, symBinAddr: 0x4374, symSize: 0x2C }
+  - { offsetInCU: 0x1FB, offset: 0x54266, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerCfD', symObjAddr: 0x3A0, symBinAddr: 0x43A0, symSize: 0x34 }
+  - { offsetInCU: 0x23F, offset: 0x542AA, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15GPUUsageTrackerCMa', symObjAddr: 0x1DC, symBinAddr: 0x41DC, symSize: 0x20 }
+  - { offsetInCU: 0x253, offset: 0x542BE, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginC6device33_243ACF1FD76EEB6A62E039D157C2B14ALLSo9MTLDevice_pSgvpfi', symObjAddr: 0x3D4, symBinAddr: 0x43D4, symSize: 0x8 }
+  - { offsetInCU: 0x26B, offset: 0x542D6, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginC12commandQueue33_243ACF1FD76EEB6A62E039D157C2B14ALLSo010MTLCommandG0_pSgvpfi', symObjAddr: 0x3DC, symBinAddr: 0x43DC, symSize: 0x8 }
+  - { offsetInCU: 0x2B, offset: 0x544E8, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCACycfC', symObjAddr: 0x0, symBinAddr: 0x43E4, symSize: 0x20 }
+  - { offsetInCU: 0x4F, offset: 0x5450C, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber1aAA19StatsTrackingPluginCvp', symObjAddr: 0x9BF0, symBinAddr: 0x11BF8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x54526, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCACycfC', symObjAddr: 0x0, symBinAddr: 0x43E4, symSize: 0x20 }
+  - { offsetInCU: 0xB9, offset: 0x54576, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginC10getGpuDataSdyF', symObjAddr: 0x20, symBinAddr: 0x4404, symSize: 0x210 }
+  - { offsetInCU: 0x29B, offset: 0x54758, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCACycfc', symObjAddr: 0x230, symBinAddr: 0x4614, symSize: 0x48 }
+  - { offsetInCU: 0x2D6, offset: 0x54793, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCACycfcTo', symObjAddr: 0x298, symBinAddr: 0x467C, symSize: 0x54 }
+  - { offsetInCU: 0x311, offset: 0x547CE, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCfD', symObjAddr: 0x2EC, symBinAddr: 0x46D0, symSize: 0x30 }
+  - { offsetInCU: 0x4D4, offset: 0x54991, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginC15hostCPULoadInfoSo0F14_cpu_load_infoVyFTf4d_n', symObjAddr: 0x1068, symBinAddr: 0x544C, symSize: 0xB8 }
+  - { offsetInCU: 0x5A7, offset: 0x54A64, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber13cpuStartUsageSdvp', symObjAddr: 0x9BF8, symBinAddr: 0x11C00, symSize: 0x0 }
+  - { offsetInCU: 0x5C1, offset: 0x54A7E, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber11cpuEndUsageSdvp', symObjAddr: 0x9C00, symBinAddr: 0x11C08, symSize: 0x0 }
+  - { offsetInCU: 0x5DB, offset: 0x54A98, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber13ramStartUsageSdvp', symObjAddr: 0x9C08, symBinAddr: 0x11C10, symSize: 0x0 }
+  - { offsetInCU: 0x5F5, offset: 0x54AB2, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber11ramEndUsageSdvp', symObjAddr: 0x9C10, symBinAddr: 0x11C18, symSize: 0x0 }
+  - { offsetInCU: 0x60F, offset: 0x54ACC, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber13gpuStartUsageSdvp', symObjAddr: 0x9C18, symBinAddr: 0x11C20, symSize: 0x0 }
+  - { offsetInCU: 0x629, offset: 0x54AE6, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber11gpuEndUsageSdvp', symObjAddr: 0x9C20, symBinAddr: 0x11C28, symSize: 0x0 }
+  - { offsetInCU: 0x643, offset: 0x54B00, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber11trackedDataSaySdGvp', symObjAddr: 0x9C28, symBinAddr: 0x11C30, symSize: 0x0 }
+  - { offsetInCU: 0x672, offset: 0x54B2F, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCMa', symObjAddr: 0x278, symBinAddr: 0x465C, symSize: 0x20 }
+  - { offsetInCU: 0x686, offset: 0x54B43, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber19StatsTrackingPluginCfETo', symObjAddr: 0x31C, symBinAddr: 0x4700, symSize: 0x38 }
+  - { offsetInCU: 0x6B5, offset: 0x54B72, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber1a_WZ', symObjAddr: 0x354, symBinAddr: 0x4738, symSize: 0x2C }
+  - { offsetInCU: 0x6E5, offset: 0x54BA2, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber11trackedData_WZ', symObjAddr: 0x380, symBinAddr: 0x4764, symSize: 0x30 }
+  - { offsetInCU: 0x6FF, offset: 0x54BBC, size: 0x8, addend: 0x0, symName: _startTracking, symObjAddr: 0x3B0, symBinAddr: 0x4794, symSize: 0x4 }
+  - { offsetInCU: 0x72C, offset: 0x54BE9, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber13startTrackingyyF', symObjAddr: 0x3B4, symBinAddr: 0x4798, symSize: 0x1C0 }
+  - { offsetInCU: 0x948, offset: 0x54E05, size: 0x8, addend: 0x0, symName: _stopTracking, symObjAddr: 0x574, symBinAddr: 0x4958, symSize: 0x4 }
+  - { offsetInCU: 0xA16, offset: 0x54ED3, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber12stopTrackingSpySdGyF', symObjAddr: 0x578, symBinAddr: 0x495C, symSize: 0x4E0 }
+  - { offsetInCU: 0x11A6, offset: 0x55663, size: 0x8, addend: 0x0, symName: _hostCPULoadInfo, symObjAddr: 0xA58, symBinAddr: 0x4E3C, symSize: 0x4 }
+  - { offsetInCU: 0x11C2, offset: 0x5567F, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber15hostCPULoadInfoyyF', symObjAddr: 0xA5C, symBinAddr: 0x4E40, symSize: 0x340 }
+  - { offsetInCU: 0x1529, offset: 0x559E6, size: 0x8, addend: 0x0, symName: _getRAMUsage, symObjAddr: 0xD9C, symBinAddr: 0x5180, symSize: 0x4 }
+  - { offsetInCU: 0x1545, offset: 0x55A02, size: 0x8, addend: 0x0, symName: '_$s13stats_grabber11getRAMUsageSdyF', symObjAddr: 0xDA0, symBinAddr: 0x5184, symSize: 0x1B8 }
+  - { offsetInCU: 0x16FF, offset: 0x55BBC, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNewAByxGyFSd_Tg5', symObjAddr: 0xF58, symBinAddr: 0x533C, symSize: 0x14 }
+  - { offsetInCU: 0x1784, offset: 0x55C41, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSd_Tg5', symObjAddr: 0xF6C, symBinAddr: 0x5350, symSize: 0xFC }
+  - { offsetInCU: 0x18AE, offset: 0x55D6B, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x1120, symBinAddr: 0x5504, symSize: 0x40 }
+...

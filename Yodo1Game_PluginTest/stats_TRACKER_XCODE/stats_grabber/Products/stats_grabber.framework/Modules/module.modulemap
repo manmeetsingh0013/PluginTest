@@ -1,0 +1,11 @@
+framework module stats_grabber {
+  umbrella header "stats_grabber.h"
+  export *
+
+  module * { export * }
+}
+
+module stats_grabber.Swift {
+  header "stats_grabber-Swift.h"
+  requires objc
+}
